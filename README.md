@@ -1,9 +1,14 @@
 # Thinkers
+
+
 These are the terms and privacy policy for Thinkers app.
-**Privacy Policy**
 
 
-Effective date: 
+
+**Privacy Policy and Terms of Use**
+
+
+Effective date: 2020-04-30
 
 Thinkers app is a Free app. This SERVICE is provided at no cost and is intended for use as is.
 
