@@ -1,6 +1,8 @@
 # Thinkers
 
 
+Contact[slammeralex@gmail.com]
+
 These are the terms and privacy policy for Thinkers app.
 
 
