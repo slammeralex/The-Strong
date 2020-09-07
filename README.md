@@ -1,9 +1,9 @@
-# Thinkers
+# The Strong
 
 
 Contact[slammeralex@gmail.com]
 
-These are the terms and privacy policy for Thinkers app.
+These are the terms and privacy policy for The Strong app.
 
 
 
@@ -12,13 +12,13 @@ These are the terms and privacy policy for Thinkers app.
 
 Effective date: 2020-04-30
 
-Thinkers app is a Free app. This SERVICE is provided at no cost and is intended for use as is.
+The Strong app is a Free app. This SERVICE is provided at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Thinkers unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at The Strong unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -27,10 +27,10 @@ For a better experience, while using our Service, we may require you to provide 
 We collect the following types of information.
 
 Information you provide us directly:
-Profile information that you provide for your user profile (Your username, Instagram name, password and e-mail address when you register for an Thinkers account). This information allows us to help you or others be "found" on Thinkers.
+Profile information that you provide for your user profile (Your username, Instagram name, password and e-mail address when you register for an The Strong account). This information allows us to help you or others be "found" on The Strong.
 
 User Content that you post to the Service.
-Communications between you and Thinkers. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
+Communications between you and The Strong. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -38,7 +38,7 @@ Analytics information:
 We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
 
 SHARING OF YOUR INFORMATION
-We will not rent or sell your information to third parties outside Thinkers (or the group of companies of which Thinkers is a part) without your consent, except as noted in this Policy.
+We will not rent or sell your information to third parties outside The Strong (or the group of companies of which The Strong is a part) without your consent, except as noted in this Policy.
 
 Link to privacy policy of third party service providers used by the app
 
